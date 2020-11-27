@@ -8,8 +8,8 @@
 
 - [x] Create ReactApp + create app on Firebase
 - [x] Clean up the create-react-app
-- [ ] Spotify for Developer [Spotify Developers](https://developer.spotify.com/) specify RedirectUrl
-- [ ] Create app on Firebase
+- [x] Spotify for Developer [Spotify Developers](https://developer.spotify.com/) specify RedirectUrl
+- [x] Create app on Firebase
 - [ ] Add Firebase hosting to your app
 - [ ] Deploy the app to Firebase and Host it online
 
